@@ -1,0 +1,37 @@
+**TeacherCentral Admin System - Quick Tips for Teachers**
+
+**Note:** This covers basic tasks. Refer to official training materials or contact the Admin Office for complex procedures.
+
+**1. Logging In:**
+*   Go to: [e.g., teachercentral.schoolname.edu]
+*   Username/Password: Provided by the Administration/IT Department. Usually your standard school login.
+*   Contact [e.g., Admin Office / IT Help Desk] if you have login issues.
+
+**2. Taking Daily Attendance:**
+*   Log in and navigate to the "Attendance" section or find the attendance link on your dashboard/homepage.
+*   Select the correct Class/Period and Date.
+*   A list of students will appear.
+*   Mark each student as "Present", "Absent", or "Tardy" using the provided options (buttons, dropdowns).
+*   Ensure you click "Submit" or "Save Attendance" for the period *before* the deadline ([e.g., within the first 15 minutes of class]).
+*   To correct a mistake made *today*, you might be able to re-submit. For previous days, contact the [e.g., Attendance Office].
+
+**3. Submitting Final Term Grades:**
+*   Navigate to the "Grade Submission" or "Report Cards" section.
+*   Select the correct Term (e.g., "Term 1 Final") and the Class.
+*   A roster will appear with columns for the final grade (e.g., Letter Grade or Percentage) and potentially comments.
+*   Enter the final calculated grade for each student accurately. *Double-check your calculations before entering.*
+*   Add comments if required/allowed, following school guidelines (use comment codes or brief, objective statements).
+*   Look for a "Verify" or "Review" step if available.
+*   Click "Submit Final Grades". Be aware of the strict submission deadlines announced by the Administration. Once submitted, changes usually require administrative intervention.
+
+**4. Viewing Student Information (Basic):**
+*   Navigate to a "Student Search" or "Class Roster" section.
+*   Select your class or search for a specific student by name or ID.
+*   Clicking on a student's name usually brings up a profile page.
+*   You can typically view basic contact information, attendance summary, and sometimes previous grades (access levels vary).
+*   **Remember: Student information is confidential.** Access and use it only for legitimate educational purposes according to school policy and data privacy laws.
+
+**Need More Help?**
+*   Consult the Teacher Handbook section on TeacherCentral usage.
+*   Contact the [e.g., Main Admin Office / Registrar's Office] for procedural questions (ext. 100).
+*   Contact the IT Help Desk for technical issues (ext. 123).

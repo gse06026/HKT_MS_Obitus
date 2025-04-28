@@ -1,0 +1,34 @@
+**Recommended Resources & Reference Sites - Science Department**
+
+**Note:** Always evaluate sources for credibility and safety procedures before use.
+
+**General Science Resources:**
+*   Reputable Science News Websites (e.g., Science News, Nature News, Scientific American)
+*   NASA Websites (nasa.gov) - Space science, images, educational materials.
+*   PhET Interactive Simulations (phet.colorado.edu) - Free interactive math and science simulations (Physics, Chemistry, Biology, Earth Science).
+*   Khan Academy (khanacademy.org) - Videos and practice exercises for various science topics.
+*   Educational YouTube Channels (e.g., SciShow, Veritasium, Kurzgesagt – check for appropriateness).
+
+**Physics:**
+*   The Physics Classroom (physicsclassroom.com) - Tutorials, interactives, problem sets.
+*   HyperPhysics (hyperphysics.phy-astr.gsu.edu/hbase/index.html) - Concept maps and explanations.
+
+**Chemistry:**
+*   American Chemical Society (acs.org) - Educational resources, articles.
+*   Royal Society of Chemistry (edu.rsc.org) - Classroom resources, experiments.
+*   PubChem (pubchem.ncbi.nlm.nih.gov) - Chemical information database.
+
+**Biology:**
+*   National Institutes of Health (nih.gov) - Health and biology research information.
+*   BioInteractive (biointeractive.org) - Free biology and life science resources from HHMI.
+*   Encyclopedia of Life (eol.org) - Information on species.
+
+**Earth Science:**
+*   US Geological Survey (usgs.gov) - Maps, data, educational resources on geology, earthquakes, volcanoes.
+*   National Oceanic and Atmospheric Administration (noaa.gov) - Weather, climate, ocean resources.
+
+**Databases (Check School Library Access):**
+*   ScienceDirect, Web of Science - Access to peer-reviewed scientific journals.
+
+**Last Updated:** [Date]
+*(Suggestion: Create similar files for Math, Languages, Arts, etc.)*

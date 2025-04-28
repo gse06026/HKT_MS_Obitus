@@ -1,0 +1,49 @@
+**[School Name] - Standard Lesson Plan Template**
+
+**Teacher:** _________________________   **Date:** ___________________
+**Subject:** _________________________   **Grade Level:** ______________
+**Unit/Topic:** _________________________________________________
+**Lesson Title:** ________________________________________________
+
+**1. Learning Objectives:**
+*(What should students know or be able to do by the end of the lesson? Use measurable verbs, e.g., "Students will be able to identify...", "Students will be able to analyze...", "Students will be able to solve...")*
+*
+*
+*
+
+**2. Materials & Resources:**
+*(List all materials needed for the lesson: textbooks (pages), worksheets, technology (laptops, projector), specific software/websites, lab equipment, art supplies, etc.)*
+*   Textbook: [Name], pp. ______
+*   Worksheet: [Title]
+*   [e.g., Laptops with internet access]
+*   [e.g., Projector & Screen]
+*   [e.g., Specific materials like markers, chart paper, etc.]
+
+**3. Lesson Procedure / Activities:**
+*(Outline the sequence of activities. Include estimated timings. Be specific about teacher actions and student actions.)*
+
+| Time (mins) | Activity Description                                     | Teacher Actions                                      | Student Actions                                        |
+| :---------- | :------------------------------------------------------- | :--------------------------------------------------- | :----------------------------------------------------- |
+| [e.g., 5]   | **Introduction / Hook** (Engage students, review prior knowledge) | [e.g., Ask introductory question, show image]        | [e.g., Respond to question, observe image]             |
+| [e.g., 15]  | **Instruction / Input** (Present new information/skills)   | [e.g., Lecture, demonstration, guided notes]       | [e.g., Take notes, listen, ask clarifying questions] |
+| [e.g., 20]  | **Guided Practice** (Apply learning with support)          | [e.g., Work through examples together, monitor pairs] | [e.g., Complete practice problems, work in pairs]      |
+| [e.g., 15]  | **Independent Practice / Application** (Students work alone/groups) | [e.g., Circulate, provide feedback, check progress]  | [e.g., Complete worksheet, work on project/task]     |
+| [e.g., 5]   | **Closure / Wrap-up** (Summarize, check understanding)     | [e.g., Review key points, ask check-for-understanding questions] | [e.g., Summarize learning, answer exit ticket]       |
+
+**4. Assessment / Checking for Understanding:**
+*(How will you know if students achieved the learning objectives? Formal or informal methods.)*
+*   [e.g., Observation of student participation during activities]
+*   [e.g., Review of completed worksheets/practice problems]
+*   [e.g., Exit ticket questions]
+*   [e.g., Quiz / Short assignment (if applicable)]
+*   [e.g., Presentation / Group work output]
+
+**5. Differentiation / Support Strategies:**
+*(How will you support diverse learners? E.g., students needing extra help, advanced learners, language learners.)*
+*   **Support:** [e.g., Provide sentence starters, offer simplified text, work in a small group]
+*   **Challenge:** [e.g., Offer extension problems, provide advanced reading material, assign leadership role]
+*   **Language Support:** [e.g., Provide visual aids, pre-teach vocabulary, allow use of bilingual dictionary]
+
+**6. Reflection / Notes for Next Time:**
+*(Teacher's personal reflection after the lesson: What worked well? What could be improved? Ideas for follow-up.)*
+*

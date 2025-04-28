@@ -1,0 +1,47 @@
+**EduPortal LMS - Quick Tips for Teachers**
+
+**Note:** This guide covers common basic functions. For detailed help, consult the full user manual or contact the IT Help Desk.
+
+**1. Logging In:**
+*   Go to: [e.g., edupoartal.schoolname.edu]
+*   Username: Your standard school email address prefix (e.g., jsmith)
+*   Password: Your standard school password
+*   Use the "Forgot Password" link if needed, or contact IT Help Desk.
+
+**2. Posting an Announcement:**
+*   Navigate to your course page.
+*   Find and click the "Announcements" section/link.
+*   Click "+ New Announcement" or similar button.
+*   Enter a Subject/Title.
+*   Type your message in the main text box. You can use basic formatting tools.
+*   Optional: Attach files using the "Attach" or paperclip icon.
+*   Optional: Set display dates if you want it to appear/disappear automatically.
+*   Click "Post" or "Save".
+
+**3. Creating a Simple Assignment:**
+*   Navigate to your course page.
+*   Find and click the "Assignments" section/link.
+*   Click "+ New Assignment" or similar button.
+*   Enter an Assignment Title.
+*   In the description box, provide clear instructions for students.
+*   Set the "Points Possible" (grade value).
+*   Set the "Due Date" using the calendar tool.
+*   Choose the Submission Type (e.g., "Online" -> "File Uploads" for documents, or "Text Entry").
+*   Click "Save & Publish" (to make it visible to students) or "Save" (to keep it as a draft).
+
+**4. Viewing Assignment Submissions:**
+*   Go to the "Assignments" section.
+*   Click on the title of the specific assignment.
+*   On the assignment page, look for a link/button like "View Submissions", "Needs Grading", or "SpeedGrader".
+*   This will typically show a list of students and their submission status (submitted, not submitted, late). Click on a student's name to view their file/entry.
+
+**5. Basic Gradebook Overview:**
+*   Find and click the "Grades" or "Gradebook" section/link in your course navigation.
+*   You will see a table with student names listed down the rows and assignment titles across the columns.
+*   You can usually click into a cell to manually enter or override a grade.
+*   Grades entered via assignment grading tools (like SpeedGrader) often populate here automatically.
+*   Look for "Export" options if you need to download grades.
+
+**Need More Help?**
+*   Check the "Help" section within EduPortal.
+*   Contact the IT Help Desk (ext. 123, ithelpdesk@schoolname.edu).

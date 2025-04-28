@@ -1,0 +1,57 @@
+# Local School Grading Policy
+
+**Document Information:**
+*   Document Title: Local School Grading Policy
+*   Version: 1.0
+*   Last Updated: 2025-04-24
+
+## Description
+This grading policy outlines the assessment standards, grading scale, and weight distribution used to evaluate student performance across subjects at Summit High School.
+
+## Grading Scale
+
+*   **Grade: A**
+    *   Description: Excellent
+    *   Score Range: 90-100
+    *   Criteria: Demonstrates mastery of content with minimal to no errors. Consistently exceeds expectations through insightful analysis, application, or creativity. Work is highly organized and demonstrates independent learning.
+*   **Grade: B**
+    *   Description: Good
+    *   Score Range: 80-89
+    *   Criteria: Demonstrates solid understanding of content with minor errors. Meets expectations and completes work thoroughly. Shows good application of skills and concepts.
+*   **Grade: C**
+    *   Description: Satisfactory
+    *   Score Range: 70-79
+    *   Criteria: Demonstrates basic understanding of content but may have several noticeable errors. Meets minimum requirements for assignments. May require some support to grasp more complex concepts.
+*   **Grade: D**
+    *   Description: Needs Improvement
+    *   Score Range: 60-69
+    *   Criteria: Demonstrates incomplete understanding of content with frequent errors. Work may be incomplete or lack sufficient effort. Significant improvement required to meet standards.
+*   **Grade: F**
+    *   Description: Failing
+    *   Score Range: Below 60
+    *   Criteria: Demonstrates major gaps in understanding or skills. Required work is often missing or unacceptable. Does not meet minimum requirements.
+
+## Component Weights (General Guideline - May vary slightly by course/teacher)
+*   Homework / Practice Assignments: 25%
+*   Class Participation / Engagement: 15%
+*   Quizzes & Tests: 40%
+*   Projects / Performance Tasks: 20%
+    *   *Note: Specific course syllabi will detail exact weightings.*
+
+## Behavior Policy Integration
+
+*   **Repeated Class Disruption:** Persistent disruption may negatively impact the 'Class Participation / Engagement' component score, after appropriate warnings and interventions have been attempted.
+*   **Missed Homework:** Directly affects the 'Homework / Practice Assignments' score. Repeated failure to submit homework may require parent/guardian contact and academic support interventions.
+*   **Cheating or Plagiarism:** Results in zero credit for the specific assignment or assessment. Further disciplinary action will be taken according to the school's Academic Honesty Policy.
+
+## Attendance Impact
+
+*   **Excused Absences:** Students are generally not penalized academically for excused absences (e.g., illness with documentation) and are responsible for completing missed work within a reasonable timeframe agreed upon with the teacher.
+*   **Unexcused Absences:** May affect the 'Class Participation / Engagement' grade if participation was expected. Chronic unexcused absences will trigger attendance interventions according to school policy.
+
+## Notes for Teachers
+*   Maintain clear, accurate, and up-to-date records of student performance for each assessment component in the official gradebook system (e.g., TeacherCentral).
+*   Review and update grades regularly, providing feedback to students (e.g., via EduPortal LMS or in-class).
+*   Communicate with parents/guardians proactively, especially when a student's performance drops significantly or there are concerns about academic progress. Refer to the Parent Communication Policy.
+
+--- End of Document ---

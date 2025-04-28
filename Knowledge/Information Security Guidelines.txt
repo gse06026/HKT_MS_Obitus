@@ -1,0 +1,32 @@
+**[School Name] - Information Security Guidelines for Students and Staff**
+
+**Effective Date:** [Date, e.g., April 1, 2024]
+
+**1. Purpose:**
+These guidelines aim to protect the confidentiality, integrity, and availability of school information resources and data, including personal information of students and staff. Compliance is mandatory for all users of school IT systems.
+
+**2. Data Privacy:**
+*   Personal information of students and staff must be handled in accordance with [mention relevant laws, e.g., GDPR, APPI - Japan's Act on the Protection of Personal Information, or a generic phrase like "applicable data protection laws and school policy"].
+*   Access to sensitive data is restricted to authorized personnel for legitimate educational or administrative purposes only.
+*   Sharing sensitive information requires appropriate authorization and adherence to privacy protocols.
+
+**3. Acceptable Use Policy (AUP) for IT Systems:**
+*   School computers, networks, internet access, and email systems are provided for educational and administrative purposes.
+*   Prohibited activities include: accessing or distributing inappropriate/illegal content, cyberbullying, attempting unauthorized access (hacking), violating copyright laws, excessive personal use interfering with school activities, and sharing passwords.
+*   The school reserves the right to monitor network and system usage to ensure compliance.
+
+**4. Password Security:**
+*   Users are responsible for maintaining the security of their passwords.
+*   Passwords must meet minimum complexity requirements [e.g., length, character types] and should be changed regularly [or if compromise is suspected].
+*   Do not share your password with anyone.
+
+**5. Reporting Security Incidents:**
+*   Report any suspected security incidents (e.g., virus infection, phishing attempt, unauthorized access, lost/stolen device containing school data) immediately to the [e.g., IT Department or designated contact person].
+
+**6. Use of Personal Devices (BYOD - Bring Your Own Device):**
+*   [If applicable, outline rules for connecting personal devices to the school network, e.g., registration required, security software needed, limited access, user responsibility for device security].
+*   If not applicable, state that connecting personal devices to the secure school network is prohibited.
+
+**Approved By:**
+[Principal's Name], Principal & [IT Department Head/Data Protection Officer]
+[Date]

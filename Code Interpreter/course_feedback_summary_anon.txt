@@ -1,0 +1,13 @@
+QuestionCategory,ResponseOption,ResponseCount
+Pacing,"Too Slow",3
+Pacing,"Just Right",25
+Pacing,"Too Fast",2
+Difficulty,"Too Easy",2
+Difficulty,"Just Right",21
+Difficulty,"Too Hard",7
+Engagement,"Very Engaging",15
+Engagement,"Moderately Engaging",12
+Engagement,"Not Engaging",3
+TeacherSupport,"Excellent",18
+TeacherSupport,"Good",9
+TeacherSupport,"Needs Improvement",3

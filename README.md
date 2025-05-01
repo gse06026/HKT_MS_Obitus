@@ -77,7 +77,7 @@ Example Interactions:
 
 ## 👥 Team
 
-*   **Dave LEE:**
+*   **Myungwoo Lee:**
     *   Project Lead
     *   AI Agent Implementation
     *   Action/Knowledge Definition

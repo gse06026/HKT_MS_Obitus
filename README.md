@@ -1,4 +1,4 @@
-# HKT_MS_Obitus
+# HKT_MS_Orbitus
 # AI Agent for High School Teachers - AI Skill Fest Hackathon Project
 
 ## 🚀 Description

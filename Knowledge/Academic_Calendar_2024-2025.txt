@@ -1,39 +1,59 @@
-**[School Name] - Academic Calendar 2024-2025**
+# Summit High School - Academic Calendar 2024-2025
 
-**Date Published:** [Date, e.g., March 15, 2024]
+**Document Information:**
+*   Document Title: Academic Calendar 2024-2025
+*   School Name: Summit High School
+*   Date Published: March 15, 2024
 **(Note: Dates are indicative and subject to change. Please refer to official school announcements for confirmation.)**
 
-**Term 1: [Start Date, e.g., April 8, 2024] - [End Date, e.g., July 19, 2024]**
-*   April 8: First Day of Term 1 / Opening Ceremony
-*   April [Date]: Entrance Ceremony (Grade [e.g., 7 or 10])
-*   May [Date]: Mid-Term Examinations (Grades [e.g., 9-12])
-*   June [Date]: Sports Day (All Grades) - Detailed plan to follow
-*   July [Date]-[Date]: Final Examinations (All Grades)
-*   July 19: Last Day of Term 1 / Closing Ceremony
-*   July 20 - August 31: Summer Vacation
+**Term 1: April 8, 2024 - July 19, 2024**
+*   April 8 (Mon): First Day of Term 1 / Opening Ceremony
+*   April 10 (Wed): Entrance Ceremony (Grade 10)
+*   April 29 (Mon): Showa Day (National Holiday)
+*   May 3 (Fri): Constitution Memorial Day (National Holiday)
+*   May 4 (Sat): Greenery Day (National Holiday)
+*   May 5 (Sun): Children's Day (National Holiday) -> May 6 (Mon): Observed Holiday
+*   May 20-24 (Mon-Fri): Mid-Term Examinations (Grades 10-12)
+*   June 7 (Fri): Sports Day (All Grades) - Detailed plan distributed separately
+*   July 8-12 (Mon-Fri): Final Examinations (All Grades)
+*   July 15 (Mon): Marine Day (National Holiday)
+*   July 19 (Fri): Last Day of Term 1 / Closing Ceremony
+*   July 20 (Sat) - August 31 (Sat): Summer Vacation (School office open on weekdays, reduced hours during Obon week Aug 13-16)
 
-**Term 2: [Start Date, e.g., September 1, 2024] - [End Date, e.g., December 20, 2024]**
-*   September 1: First Day of Term 2
-*   October [Date]: School Cultural Festival - Detailed plan to follow
-*   October [Date]-[Date]: Mid-Term Examinations (Grades [e.g., 9-12])
-*   November [Date]: Parent-Teacher Conferences (All Grades)
-*   December [Date]-[Date]: Final Examinations (All Grades)
-*   December 20: Last Day of Term 2 / Closing Ceremony
-*   December 21 - January [Date]: Winter Vacation
+**Term 2: September 2, 2024 - December 20, 2024**
+*   September 2 (Mon): First Day of Term 2
+*   September 16 (Mon): Respect for the Aged Day (National Holiday)
+*   September 22 (Sun): Autumnal Equinox Day -> September 23 (Mon): Observed Holiday
+*   October 14 (Mon): Health and Sports Day (National Holiday)
+*   October 25 (Fri): School Cultural Festival - Detailed plan distributed separately
+*   October 28 - Nov 1 (Mon-Fri): Mid-Term Examinations (Grades 10-12)
+*   November 3 (Sun): Culture Day -> November 4 (Mon): Observed Holiday
+*   November 8 (Fri): Teacher Professional Development Day (No Classes)
+*   November 15 (Fri): Parent-Teacher Conferences (All Grades - Afternoon classes shortened)
+*   November 23 (Sat): Labor Thanksgiving Day (National Holiday)
+*   December 9-13 (Mon-Fri): Final Examinations (All Grades)
+*   December 20 (Fri): Last Day of Term 2 / Closing Ceremony
+*   December 21 (Sat) - January 6 (Mon): Winter Vacation
 
-**Term 3: [Start Date, e.g., January 7, 2025] - [End Date, e.g., March 21, 2025]**
-*   January 7: First Day of Term 3
-*   February [Date]-[Date]: Final Examinations (Grades [e.g., 9, 11, 12])
-*   February [Date]: Grade [e.g., 12] Graduation Practice
-*   March [Date]: Graduation Ceremony (Grade [e.g., 12])
-*   March [Date]-[Date]: Final Examinations (Grades [e.g., 7, 8, 10])
-*   March 21: Last Day of Term 3 / Closing Ceremony / End of Academic Year
-*   March 22 - April [Date]: Spring Vacation
+**Term 3: January 7, 2025 - March 24, 2025**
+*   January 7 (Tue): First Day of Term 3
+*   January 13 (Mon): Coming of Age Day (National Holiday)
+*   February 10-14 (Mon-Fri): Final Examinations (Grades 11, 12)
+*   February 11 (Tue): National Foundation Day (National Holiday)
+*   February 23 (Sun): Emperor's Birthday -> February 24 (Mon): Observed Holiday
+*   February 28 (Fri): Grade 12 Graduation Practice
+*   March 3 (Mon): Graduation Ceremony (Grade 12)
+*   March 10-14 (Mon-Fri): Final Examinations (Grade 10)
+*   March 20 (Thu): Vernal Equinox Day (National Holiday)
+*   March 24 (Mon): Last Day of Term 3 / Closing Ceremony / End of Academic Year
+*   March 25 (Tue) - April 7 (Mon, approx.): Spring Vacation
 
-**Other Important Dates:**
-*   [List National Holidays during the academic year]
-*   [List any Teacher Professional Development Days - No Classes]
+**Other Important Dates Summary:**
+*   **National Holidays (No Classes):** Apr 29, May 3, May 6, Jul 15, Sep 16, Sep 23, Oct 14, Nov 4, Nov 23 (Sat), Jan 13, Feb 11, Feb 24, Mar 20. (Note: May 4 & Nov 23 fall on Saturday in this period)
+*   **Teacher Professional Development Days (No Classes):** November 8 (Fri). (Additional dates may be announced)
 
 **Approved By:**
-[Principal's Name], Principal
-[Date]
+*   Principal: Dr. Evelyn Reed
+*   Date: March 15, 2024
+
+--- End of Document ---

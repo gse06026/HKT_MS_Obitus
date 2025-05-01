@@ -67,11 +67,11 @@ https://youtu.be/XH4HpWa7h_g?feature=shared
 
 ## 👥 Team
 
-*   **Myungwoo Lee:**
+*   **@gse06026:**
     *   Project Lead
     *   AI Agent Implementation
     *   Action/Knowledge Definition
-*   **Moe:**
+*   **@M009245:**
     *   Project Management
     *   Action/Knowledge Support
     *   Quality Assurance

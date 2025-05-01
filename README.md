@@ -63,8 +63,7 @@ To conceptually replicate this agent:
 **Note:** This repository contains the configuration files and knowledge assets, not the deployed Azure resources themselves. **Do NOT commit any API keys or sensitive credentials.**
 
 ## 🎬 Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XH4HpWa7h_g?si=IaQQbHKxTPDQISm-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/XH4HpWa7h_g?feature=shared
 
 Example Interactions:
 

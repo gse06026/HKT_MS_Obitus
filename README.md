@@ -65,16 +65,6 @@ To conceptually replicate this agent:
 ## 🎬 Demo
 https://youtu.be/XH4HpWa7h_g?feature=shared
 
-Example Interactions:
-
-**User:** "What are the dates for Term 1 final exams?"
-**Agent:** (Retrieves info from Academic Calendar) "According to the school calendar, Term 1 final exams are scheduled from July 8th to July 12th, 2024."
-
-**User:** "Calculate the average score for 'Unit 1 Quiz' from the `sample_grades_anonymized.txt` file."
-**Agent:** (Uses Code Interpreter) "Okay, I will use the Code Interpreter to calculate the average score for 'Unit 1 Quiz' from the provided CSV file. ... The average score for the Unit 1 Quiz is 88.6."
-
-[*(Insert Screenshot/GIF here if possible)*]
-
 ## 👥 Team
 
 *   **Myungwoo Lee:**

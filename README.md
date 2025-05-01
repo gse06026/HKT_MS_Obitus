@@ -25,7 +25,7 @@ The agent understands natural language queries and utilizes a knowledge base der
 
 ## ⚙️ How it Works
 
-This AI Agent is built using **Azure AI Studio**. The core functionality relies on:
+This AI Agent is built using **Azure AI Foundry**. The core functionality relies on:
 
 1.  **Azure OpenAI Service:** Utilizes a powerful language model (Model: gpt-4o-mini) as the agent's "brain".
 2.  **Retrieval-Augmented Generation (RAG):**
@@ -37,10 +37,10 @@ This AI Agent is built using **Azure AI Studio**. The core functionality relies 
 
 ## 🛠️ Technology Stack
 
-*   **Platform:** Azure AI Studio
+*   **Platform:** Azure AI Foundry
 *   **Core AI Service:** Azure OpenAI Service (Model: gpt-4o-mini)
-*   **Knowledge Base:** Azure AI Search (Managed via Azure AI Studio Data sources)
-*   **Actions:** Code Interpreter (Built-in Azure AI Studio Action)
+*   **Knowledge Base:** Azure AI Search (Managed via Azure AI Foundry Data sources)
+*   **Actions:** Code Interpreter (Built-in Azure AI Foundry Action)
 *   **Knowledge Files:** TXT
 
 ## 📚 Setup & Configuration (Conceptual)
@@ -48,7 +48,7 @@ This AI Agent is built using **Azure AI Studio**. The core functionality relies 
 To conceptually replicate this agent:
 
 1.  Create an Azure AI Hub and an associated Azure OpenAI resource (deploying the desired model).
-2.  In Azure AI Studio, create a new Agent project.
+2.  In Azure AI Foundry, create a new Agent project.
 3.  **Knowledge Setup:**
     *   Prepare knowledge documents (like those in the `knowledge_files` folder of this repository). **Ensure all sensitive information is removed/anonymized.**
     *   Upload these documents via the Data sources -> `files` option to create a searchable index.
@@ -58,7 +58,7 @@ To conceptually replicate this agent:
     *   Upload these files via the 'Manage files for code interpreter' option in the Agent's 'Actions' settings.
 5.  **Instructions:** Configure the Agent's 'Instructions' (system prompt) similar to the content in `config/agent_instructions.md`. Ensure guidelines for using knowledge sources and Code Interpreter are included.
 6.  **Actions:** Enable the 'Code Interpreter' action in the Agent's 'Actions' settings.
-7.  **Testing:** Use the Azure AI Studio Playground to test the agent's responses to various queries related to the knowledge base and data analysis tasks.
+7.  **Testing:** Use the Azure AI Foundry Playground to test the agent's responses to various queries related to the knowledge base and data analysis tasks.
 
 **Note:** This repository contains the configuration files and knowledge assets, not the deployed Azure resources themselves. **Do NOT commit any API keys or sensitive credentials.**
 
